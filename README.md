@@ -31,3 +31,7 @@ XDS 소프트웨어의 6개월 라이선스 만료 주기에 맞춰, 최신 버�
 # Crontab 등록 (crontab -e)
 30 4 1 1,7 * /usr/local/bin/update_xds.sh
 ```
+
+## 기여 (Contribution)
+
+이 코드는 Gemini와 Jules를 사용하여 작성되었습니다.
